@@ -8,7 +8,8 @@ ZhihuDalyReport, A Zhihu daily news reading App based on Material Design + MVP +
 
 出于学习的目的做了这款阅读应用，基本涵盖了当前Android端开发最常用的主流框架，主要用于研究使用新技术,在次过程中受益良多,
 
-[知乎日报](http://daily.zhihu.com/)&nbsp;&nbsp;—&nbsp;&nbsp;汇集知乎上的热门话题与新鲜事
+[知乎日报](http://daily.zhihu.com/)&nbsp;&nbsp;—&nbsp;&nbsp;
+
 
 <br/>
 <b>tips:</b>

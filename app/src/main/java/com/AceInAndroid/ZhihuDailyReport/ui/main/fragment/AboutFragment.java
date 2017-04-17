@@ -25,11 +25,11 @@ public class AboutFragment extends SimpleFragment {
 
     @OnClick(R.id.cv_about_award)
     void awardAuthor() {
-        if (AlipayUtil.hasInstalledAlipayClient(mContext)) {
-            AlipayUtil.startAlipayClient(getActivity(), Constants.KEY_ALIPAY);
-        } else {
-            SnackbarUtil.showShort(getActivity().getWindow().getDecorView(), "木有检测到支付宝客户端 T T");
-        }
+//        if (AlipayUtil.hasInstalledAlipayClient(mContext)) {
+//            AlipayUtil.startAlipayClient(getActivity(), Constants.KEY_ALIPAY);
+//        } else {
+//        }
+        SnackbarUtil.showShort(getActivity().getWindow().getDecorView(), "蟹蟹蟹蟹 支付宝key还没申请下来");
     }
 
 }
