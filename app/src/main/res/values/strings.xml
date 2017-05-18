@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">ZhihuDalyReport</string>
-    <string name="app_intro">知乎日报</string>
+    <string name="app_name">程序员日报</string>
+    <string name="app_intro">一建获取新鲜技术资讯
+                AceInAndroid</string>
 
     //main drawer
     <string name="zhihu">知乎日报</string>
@@ -40,6 +41,6 @@
     <string name="about_author">作者:AceInAndroid\t\t(psel1991@gmail.com)</string>
     <string name="about_project">项目简介:\n知乎日报,一个知乎阅读APP\n为了熟悉当前Android端主流框架的使用,也为了能有一款将新闻、技术文章、福利一网打尽的简洁的阅读应用,利用闲暇时间做了这个项目n(*≧▽≦*)n\n
         本着学习的目的,该项目会持续迭代与优化,加入更丰富的阅读内容与功能,并不断尝试最新的技术,欢迎star、fork、issue、email</string>
-    <string name="about_award">请作者吃糖(￣▽￣)</string>
+    <string name="about_award">支持我一下</string>
     <string name="about_info">ZhiHuDailyReport\t\t\tV1.0.0</string>
 </resources>

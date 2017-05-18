@@ -6,10 +6,6 @@ package com.AceInAndroid.ZhihuDailyReport.model.bean;
 
 public class WelcomeBean {
 
-    /**
-     * text : © Fido Dido
-     * img : http://p2.zhimg.com/10/7b/107bb4894b46d75a892da6fa80ef504a.jpg
-     */
 
     private String text;
     private String img;
