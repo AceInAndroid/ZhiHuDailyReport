@@ -13,9 +13,9 @@ import retrofit2.http.GET;
 
 public interface MyApis {
 
-    String HOST = "http://AceInAndroid.me/api/geeknews/";
+    String HOST = "http://AceInAndroid.me/api/ZhihuDailyReport/";
 
-    String APK_DOWNLOAD_URL = "http://AceInAndroid.me/apk/geeknews.apk";
+    String APK_DOWNLOAD_URL = "http://AceInAndroid.me/apk/ZhihuDailyReport.apk";
 
     /**
      * 获取最新版本信息

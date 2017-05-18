@@ -25,6 +25,7 @@ import me.yokeyword.fragmentation.SupportFragment;
  */
 public abstract class BaseFragment<T extends BasePresenter> extends SupportFragment implements BaseView{
 
+
     @Inject
     protected T mPresenter;
     protected View mView;

@@ -12,6 +12,7 @@
                 android:id="@+id/drawer_wechat"
                 android:icon="@mipmap/ic_drawer_wechat"
                 android:checkable="true"
+                android:visible="false"
                 android:title="@string/wechat"/>
             <item
                 android:id="@+id/drawer_gank"
