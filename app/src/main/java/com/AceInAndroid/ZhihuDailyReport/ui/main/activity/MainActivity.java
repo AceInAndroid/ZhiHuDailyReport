@@ -221,7 +221,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements MainCon
     private void showExitDialog() {
         android.support.v7.app.AlertDialog.Builder builder = new android.support.v7.app.AlertDialog.Builder(this);
         builder.setTitle("提示");
-        builder.setMessage("确定退出GeekNews吗");
+        builder.setMessage("确定退出程序员日报吗");
         builder.setNegativeButton("取消", null);
         builder.setPositiveButton("确定", new DialogInterface.OnClickListener() {
             @Override
