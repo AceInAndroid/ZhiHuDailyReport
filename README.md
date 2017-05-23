@@ -21,6 +21,18 @@ ZhihuDalyReport, A Zhihu daily news reading App based on Material Design + MVP +
 ### Preview
 
 
+<img src="screenshots/501495382324_.pic.jpg" width = "40%" />
+<img src="screenshots/511495382327_.pic.jpg" width = "40%" />
+<img src="screenshots/521495382328_.pic.jpg" width = "40%" />
+<img src="screenshots/531495382330_.pic.jpg" width = "40%" />
+<img src="screenshots/541495382332_.pic.jpg" width = "40%" />
+<img src="screenshots/551495382334_.pic.jpg" width = "40%" />
+<img src="screenshots/541495382336_.pic.jpg" width = "40%" />
+<img src="screenshots/541495382338_.pic.jpg" width = "40%" />
+
+
+
+
 
 ## Points
 
